@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    quotes: none;
+}
+
+#header {
+    text-align: center;
+    margin: 2% auto;
+}
+
+#main {
+    width: 100%;
+}
+
+#wrap {
+    background-color: cornflowerblue;
+    width: 30%;
+}
+
+#today {
+    background-color: black;
+    width: 70%;
+    float: right;
+}
+
+.inline {
+    display: inline-block; 
+    border: 1px solid red;
+}
